@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://192.168.1.247/svn/AirAd_client"
+   revision="2487"
+   schedule="delete"
+   last-author="panyi"
+   url="http://192.168.1.247/svn/AirAd_client/devbranches/EMMS/athena/bin/res"
+   committed-rev="2487"
+   kind="dir"
+   committed-date="2012-11-12T02:33:59.990000Z"/>
+<entry
+   name="drawable-mdpi"
+   kind="dir"/>
+</wc-entries>

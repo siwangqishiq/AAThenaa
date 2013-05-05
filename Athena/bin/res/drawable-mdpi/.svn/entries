@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://192.168.1.247/svn/AirAd_client"
+   name=""
+   revision="2545"
+   last-author="panyi"
+   url="http://192.168.1.247/svn/AirAd_client/devbranches/EMMS/athena/bin/res/drawable-mdpi"
+   committed-rev="2545"
+   kind="dir"
+   committed-date="2012-11-27T08:16:36.472000Z"/>
+<entry
+   name="deworkerdetailmain.png"
+   checksum="c267b888db582c190d080f994b6a8c09"
+   last-author="panyi"
+   text-time="2012-11-26T09:42:29.734000Z"
+   committed-rev="2545"
+   kind="file"
+   committed-date="2012-11-27T08:16:36.472000Z"
+   prop-time="2012-11-27T08:17:23.359000Z"/>
+<entry
+   name="ic_launcher.png"
+   checksum="acefc1f320111a8d71bcdb8b4aa0656c"
+   last-author="panyi"
+   text-time="2012-11-14T07:25:50.156000Z"
+   committed-rev="2545"
+   kind="file"
+   committed-date="2012-11-27T08:16:36.472000Z"
+   prop-time="2012-11-27T08:17:23.343000Z"/>
+</wc-entries>

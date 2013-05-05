@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Athena</string>
+	<string name="app_name_ch">雅典娜</string>
+	<string name="loadurl">loadlist</string>
+	<string name="getWorkerList">workerlist</string>
+	<string name="getProductList">productlist</string>
+	<string name="getProduct">productdetail</string>
+	<string name="getDesc">getDesc</string>
+	<string name="getWelcomePicList">welcomelist</string>
+	<string name="socket">http://192.168.1.7:8080/preview/athena/</string>
+	<string name="contract"></string>
+</resources>
